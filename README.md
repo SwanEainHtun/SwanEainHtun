@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>Hi :wave: I'm Swan Eaint Htun</h1>
+  <h2>Hi :wave: I'm Swan Eaint Htun</h2>
 </div>
-- 🔭 I’m currently a student
+
 - 📫 How to reach me **swaneainhtun1212@gmail.com**
 
 
